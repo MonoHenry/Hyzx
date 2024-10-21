@@ -9,6 +9,10 @@ None. It can only boot and check if the the next sector is loading correctly.
 ### Which features will it have?
 
 >TCP/IP protococol.
+>
 >A shell interface.
+>
 >GCC so you can code inside the OS.
+>
 >A basic GUI.
+>
